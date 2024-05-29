@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngprabesh07&label=Profile%20views&color=0e75b6&style=flat" alt="ngprabesh07" /> </p>
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently working with  **Flutter , laravel, next , **
 
-- 💬 Ask me about **OOP , DSA, Dart....etc**
+- 💬 Ask me about **Flutter , Laravel, Dart....etc**
 
 - 📫 How to reach me **ngprabesh123@gmail.com**
 
